@@ -25,7 +25,5 @@
     "psr-4": {
       "Mabu\\Shopfinder\\": ""
     }
-  },
- 
-  "minimum-stability": "dev"
+  }
 }
