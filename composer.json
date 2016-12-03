@@ -26,5 +26,6 @@
       "Mabu\\Shopfinder\\": ""
     }
   },
-  "minimum-stability":"alpha"
+  "minimum-stability":"alpha",
+  "prefer-stable": true
 }
