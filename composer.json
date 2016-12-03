@@ -3,7 +3,7 @@
   "description": "Shopfinder Module for Magento 2",
   "type": "magento2-module",
   "version": "1.0.0",
-  "homepage": "https://github.com/magento2abu/test",
+  "homepage": "https://github.com/magento2abu/",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
@@ -11,7 +11,7 @@
   "repositories":[ 
     {
       "type": "vcs",
-      "url": "https://github.com/magento2abu/test"
+      "url": "https://github.com/magento2abu/root"
     }
   ],
   "require": {
@@ -25,5 +25,6 @@
     "psr-4": {
       "Mabu\\Shopfinder\\": ""
     }
-  }
+  },
+  "minimum-stability":"alpha"
 }
