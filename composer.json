@@ -10,13 +10,13 @@
   ],
   "repositories":[ 
     {
-      "type": "vcs",
+      "type": "git",
       "url": "https://github.com/magento2abu/root"
     }
   ],
   "require": {
     "php": "~5.6.0|7.0.*",
-    "magento/framework": "100.1.*"
+    "magento/framework": "100.1.*",
   },
   "autoload": {
     "files": [
@@ -25,7 +25,5 @@
     "psr-4": {
       "Mabu\\Shopfinder\\": ""
     }
-  },
-  "minimum-stability":"alpha",
-  "prefer-stable": true
+  }
 }
